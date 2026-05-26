@@ -2,7 +2,7 @@
 
 # Hey! I'm Neil
 
-#### Based in California
+#### @Stanford
 
 #### Program using Python 🐍, Java, R, C++, React, and HTML 
 
