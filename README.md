@@ -2,6 +2,5 @@
 
 # Hey! I'm Neil
 
-#### @[Stanford](stanford.edu)
-
+#### @[Stanford](https://www.stanford.edu/)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
