@@ -2,5 +2,9 @@
 
 # Hey! I'm Neil
 
+CS @ [Stanford](https://www.stanford.edu/) · building outreach and email tools
+
+**Featured projects:** [Talon](https://github.com/NeilChandran/talon) · [The Read](https://github.com/NeilChandran/the-read) · [Are You Above Average?](https://github.com/NeilChandran/are-you-above-average)
+
 #### @[Stanford](https://www.stanford.edu/)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
