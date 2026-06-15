@@ -16,8 +16,5 @@ Check out my [site](https://neilchandran.com/).
 <br>
 
 <a href="https://github.com/NeilChandran">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NeilChandran&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/NeilChandran">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeilChandran&layout=compact&hide_border=true&theme=tokyonight" />
 </a>
