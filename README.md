@@ -1,4 +1,4 @@
-# Hey! **I'm Neil!** 
+# Hey! I'm Neil 
 
 I'm a CS + Math student at [Stanford](https://stanford.edu). I build AI products, fullstack projects and whatever else I get curious about in my free time.
 
