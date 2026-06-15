@@ -6,7 +6,7 @@ Check out my [site](https://neilchandran.com/).
 
 
 
-![](https://img.shields.io/badge/currently-building%20Hedwig-2188ff?style=flat-square)
+![](https://img.shields.io/badge/currently-building%20H-2188ff?style=flat-square)
 
 <details open>
 <summary><b>Github Stats ⚡</b></summary>
