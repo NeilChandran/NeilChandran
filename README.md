@@ -1,6 +1,6 @@
 # Hey!
 
-**I'm Neil** I'm a CS + Math student at Stanford. I build AI products, fullstack projects and whatever else I get curious about in my free time.
+**I'm Neil!** I'm a CS + Math student at Stanford. I build AI products, fullstack projects and whatever else I get curious about in my free time.
 
 Check out my [site](https://neilchandran.com/).
 
