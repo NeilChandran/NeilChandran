@@ -9,7 +9,7 @@ Check out my [site](https://neilchandran.com/).
 ![](https://img.shields.io/badge/currently-building%20-2188ff?style=flat-square)
 
 <details open>
-<summary><b>Github Stats ⚡</b></summary>
+<summary><b>Github Stats 
 <br>
 <a href="https://github.com/NeilChandran">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeilChandran&layout=donut&hide_border=true&theme=tokyonight" />
